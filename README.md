@@ -33,4 +33,3 @@ This repository is for beginners to make their first pull request and for anyone
 - [@JesusChrist0](https://github.com/jesuschrist0)
 
 - [@Mallik813](https://github.com/Mallik813)
-
